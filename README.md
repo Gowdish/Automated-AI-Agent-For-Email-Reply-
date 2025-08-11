@@ -137,7 +137,3 @@ ollama run mistral
 ```
 
 ---
-
-## License
-
-[MIT](LICENSE)
